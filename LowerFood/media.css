@@ -1,0 +1,282 @@
+@media(max-width: 990px){
+	.box0{
+		padding-left: 0;
+	}
+	.bob{
+		padding: 100px;
+	}
+	.bob h1{
+		font-size: 60px;
+		margin: 21px 0 0 0;
+		padding-right: 300px;
+	}
+	.bob1 img{
+		width: 266px;
+		height: 275px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box2{
+		padding: 0 0;
+		margin: auto;
+	}
+	.box2 h2{
+		font-size: 50px;
+		margin: 20px 137px 0 1px;
+	}
+	.box2 h6{
+		font-size: 20px;
+		margin: 20px auto 0 1px;
+	}
+	.box2 p{
+		font-size: 20px;
+		margin: 23px 1px 0;
+	}
+	.box2 img{
+		width: 300px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box4{
+		padding: 0 0;
+		margin: auto;
+	}
+	.box4 h2{
+		font-size: 50px;
+		margin: 20px 137px 0 1px;
+	}
+	.box4 h6{
+		font-size: 20px;
+		margin: 20px auto 0 1px;
+	}
+	.box4 p{
+		font-size: 20px;
+		margin: 23px 1px 0;
+	}
+	.box4 img{
+		width: 300px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box5 img{
+		width: 345px;
+		height: 284px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box6{
+		padding: 0 0;
+		margin: auto;
+	}
+	.box6 h2{
+		font-size: 50px;
+		margin: 20px 137px 0 1px;
+	}
+	.box6 h6{
+		font-size: 20px;
+		margin: 20px auto 0 1px;
+	}
+	.box6 p{
+		font-size: 20px;
+		margin: 23px 1px 0;
+	}
+	.box6 img{
+		width: 300px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+
+}
+
+
+@media(max-width: 768px){
+	.box0{
+		padding-left: 0;
+	}
+	.bob{
+		padding: 100px;
+	}
+	.bob h1{
+		font-size: 60px;
+		margin: 21px 0 0 0;
+		padding-right: 100px;
+	}
+	.bob1 img{
+		width: 566px;
+		height: 275px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box2 img{
+		width: 400px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box2{
+		padding: 0 0;
+		margin: 0;
+		text-align: center;
+	}
+	.box2 h2{
+		font-size: 50px;
+		margin: 20px 0;
+	}
+	.box2 h6{
+		font-size: 20px;
+		margin: 20px 0 0;
+	}
+	.box2 p{
+		font-size: 20px;
+		margin: 23px 0 0;
+		color: white;
+	}
+	.box4 img{
+		width: 400px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box4{
+		padding: 0 0;
+		margin: 0;
+		text-align: center;
+	}
+	.box4 h2{
+		font-size: 50px;
+		margin: 20px 0;
+	}
+	.box4 h6{
+		font-size: 20px;
+		margin: 20px 0 0;
+	}
+	.box4 p{
+		font-size: 20px;
+		margin: 23px 0 0;
+		color: white;
+	}
+	.box5 img{
+		width: 545px;
+		height: 484px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box6 img{
+		width: 400px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box6{
+		padding: 0 0;
+		margin: 0;
+		text-align: center;
+	}
+	.box6 h2{
+		font-size: 50px;
+		margin: 20px 0;
+	}
+	.box6 h6{
+		font-size: 20px;
+		margin: 20px 0 0;
+	}
+	.box6 p{
+		font-size: 20px;
+		margin: 23px 0 0;
+		color: white;
+	}
+}
+
+
+@media(max-width: 567px){
+	.box0{
+		padding-left: 0;
+		text-align: center;
+	}
+	.bob{
+		padding: 0;
+		text-align: center;
+		margin: auto;
+		justify-content: center;
+	}
+	.bob h1{
+		font-size: 50px;
+		margin: 21px 0 0 0;
+		padding-right: 0;
+	}
+	.bob a{
+		margin: auto;
+	}
+	.circule{
+		margin: auto;
+	}
+	.bob1 img{
+		width: 300px;
+		height: 275px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box2{
+		text-align: center;
+	}
+	.box2 img{
+		width: 300px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+		padding-left: 30px;
+	}
+	.box2 p{
+		font-size: 18px;
+		padding: 10px;
+	}
+	.box4{
+		text-align: center;
+	}
+	.box4 img{
+		width: 300px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+		padding-left: 30px;
+	}
+	.box4 p{
+		font-size: 18px;
+		padding: 10px;
+	}
+	.box5 h2{
+		font-size: 40px;
+	}
+	.box5 img{
+		width: 345px;
+		height: 284px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+	.box6{
+		text-align: center;
+	}
+	.box6 img{
+		width: 300px;
+		height: 320px;
+		object-fit: cover;
+		border-radius: 50px;
+		padding-left: 30px;
+	}
+	.box6 p{
+		font-size: 18px;
+		padding: 10px;
+	}
+}
+
+@media(max-width: 400px){
+	.box5 img{
+		width: 245px;
+		height: 184px;
+		object-fit: cover;
+		border-radius: 50px;
+	}
+}
